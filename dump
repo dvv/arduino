@@ -1,0 +1,3 @@
+#!/bin/sh
+#busybox microcom -s 9600 /dev/ttyUSB0
+screen /dev/ttyUSB0
